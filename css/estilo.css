@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&display=swap');
+p{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+h2{
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    color: chocolate;
+}
+.primavera1{
+    width: 35vw;
+    height: 30vh;
+}
+.primavera2{
+    width: 35vw;
+    height: 30vh;
+}
+.ipe{
+    width: 35vw;
+    height: 30vh;
+}
